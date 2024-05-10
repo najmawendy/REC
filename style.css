@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: #F0F0F0; /* Cor de fundo do corpo */
+    color: #333; /* Cor do texto */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-family: "Arial Black", sans-serif; /* Fonte dos títulos */
+}
+
+ul {
+    list-style-type: none; /* Remove os marcadores de lista */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px; /* Espaçamento entre os itens da lista */
+}
+
+a {
+    color: #007bff; /* Cor dos links */
+    text-decoration: none; /* Remove o sublinhado padrão */
+    font-weight: bold; /* Deixa os links em negrito */
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+.najma {
+    background: linear-gradient(90deg, #4DA0B0, #D39D38); 
+    color: #fff; /* Cor do texto */
+}
+
+.pais {
+    background: linear-gradient(90deg, #191970, #00BFFF); 
+}
+
+.avós {
+    background: linear-gradient(90deg, #556B2F, #F0E68C); 
+    color: #333; /* Cor do texto */
+}
+
+.pais img {
+    max-width: 200px; /* Defina a largura máxima desejada */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.najma img {
+    max-width: 200px; /* Defina a largura máxima desejada */
+    height: auto; /* Mantém a proporção da imagem */
+}
